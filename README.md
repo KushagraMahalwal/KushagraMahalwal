@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KushagraMahalwal
-- 👀 I’m interested in Data Analytics/Business Analytics
-- 🌱 I’m currently learning data analytics tools
-- 💞️ I’m looking for full time internship/job
+- 👀 Working a Bot Developer
+- 🌱 I’m currently learning various python frameworks for developing AI Models and Web development
 - 📫 Email: mahalwalkushagra@gmail.com
 
 <!---
