@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KushagraMahalwal
-- 👀 Working a Bot Developer
+- 👀 Working a Python Developer
 - 🌱 I’m currently learning various python frameworks for developing AI Models and Web development
 - 📫 Email: mahalwalkushagra@gmail.com
 
