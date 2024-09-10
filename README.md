@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Kushagra Mahalwal</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-- 💬 Ask me about **Python, Django Rest Framework, Dialoglflow**
+- 💬 Ask me about **Python, Django, Django Rest Framework and Dialoglflow**
 
 - 📫 How to reach me **mahalwalkushagra@gmail.com**
 
